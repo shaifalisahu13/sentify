@@ -1,16 +1,36 @@
-# React + Vite
+# 🚀 Sentify - Sentiment Analysis Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack web application that analyzes text and predicts sentiment (Positive / Negative / Neutral).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
+👉 https://sentify-mocha.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Features
+- 🧠 Real-time sentiment analysis
+- ⚡ Fast API response
+- 🌐 Frontend + Backend integration
+- 🎯 Clean UI
+- 🔗 Live deployment
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+Frontend: React (Vite)  
+Backend: Node.js + Express  
+Deployment: Vercel + Render  
+Version Control: Git + GitHub  
+
+---
+
+## 🔗 API Endpoint
+https://sentify-backend-u503.onrender.com/analyze
+
+---
+
+## 👨‍💻 Author
+Shaifali Sahu  
+GitHub: https://github.com/shaifalisahu13
