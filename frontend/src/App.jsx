@@ -20,7 +20,7 @@ function App() {
     }
 
     try {
-      const res = await axios.post("http://localhost:5000/analyze", {
+      const res = await axios.post("https://sentify-backend-u503.onrender.com/analyze", {
         text,
       });
 
